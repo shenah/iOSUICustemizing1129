@@ -4,10 +4,47 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UICustemizing1129.xcscheme_^#shared#^_</key>
+		<key>AlertControllerCustemizing.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>SideBarUse.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>UICustemizing1129.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>272BD95D21B0C47C00041B8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>272BD98221B1060900041B8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>272BD99721B1065E00041B8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>275809CA21AFB68000301B8E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
